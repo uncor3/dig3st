@@ -39,7 +39,7 @@ Contributions are welcome! Dig3st certainly needs more features and improvements
 
 ## License
 
-This project is licensed under a custom License. See the [LICENSE](LICENSE) file for details.
+[AGPL-3.0](LICENSE)
 
 ## Donate
 
